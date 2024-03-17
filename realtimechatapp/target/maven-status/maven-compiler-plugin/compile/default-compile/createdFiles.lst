@@ -1,0 +1,12 @@
+com\chat\app\realtimechatapp\Repository\MessageDetailsRepo.class
+com\chat\app\realtimechatapp\Controller\UserDetailsController.class
+com\chat\app\realtimechatapp\Service\MessageDetailsService.class
+com\chat\app\realtimechatapp\RealtimechatappApplication.class
+com\chat\app\realtimechatapp\ServiceImpl\UserDetailsServiceImpl.class
+com\chat\app\realtimechatapp\Repository\UserDetailsRepo.class
+com\chat\app\realtimechatapp\Service\UserDetailsService.class
+com\chat\app\realtimechatapp\ServiceImpl\MessageDetailsServiceImpl.class
+com\chat\app\realtimechatapp\Controller\MessageDetailsController.class
+com\chat\app\realtimechatapp\Entity\Message.class
+com\chat\app\realtimechatapp\config\WebSocketConfig.class
+com\chat\app\realtimechatapp\Entity\User.class
